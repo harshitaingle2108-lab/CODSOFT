@@ -1,3 +1,4 @@
+package ATMInterface;
 import java.util.Scanner;
 
 public class ATMInterface {

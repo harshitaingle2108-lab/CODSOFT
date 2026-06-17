@@ -1,3 +1,4 @@
+package CurrencyConverter;
 import java.util.Scanner;
 
 public class CurrencyConverter {
